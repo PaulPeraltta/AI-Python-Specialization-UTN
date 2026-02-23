@@ -43,9 +43,9 @@
 
 # ----------------------------------------------------------------
 
-sueldo=int(input("Ingrese cual es su sueldo:"))
-if sueldo>3000:
-    print("Esta persona debe abonar impuestos")
+# sueldo=int(input("Ingrese cual es su sueldo:"))
+# if sueldo>3000:
+#     print("Esta persona debe abonar impuestos")
 
 # -----------------------------------------------------------------
 
@@ -105,11 +105,10 @@ if sueldo>3000:
 # print("El mayor de los tres valores es")
 # if num1>num2 and num1>num3:
 #     print(num1)
+# elif num2>num3:
+#     print(num2)
 # else:
-#     if num2>num3:
-#         print(num2)
-#     else:
-#         print(num3)
+#     print(num3)
 
 # -------------------------------------------------------------
 
